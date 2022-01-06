@@ -1,4 +1,3 @@
-/* eslint-disable array-callback-return */
 const data = require('../data/zoo_data');
 
 function getSpeciesByIds(...ids) {
@@ -9,7 +8,6 @@ function getSpeciesByIds(...ids) {
   if (ids === undefined) {
     return result;
   }
-  // console.log(ids);
   species.filter((item) => {
     ids.filter((itemProcurado) => {
       if (item.id === itemProcurado) {
