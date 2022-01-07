@@ -2,7 +2,6 @@ const data = require('../data/zoo_data');
 
 function getSpeciesByIds(...ids) {
   const { species } = data;
-
   const result = [];
   if (ids === undefined) {
     return result;
