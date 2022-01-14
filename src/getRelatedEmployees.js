@@ -4,7 +4,7 @@ const { employees } = data;
 
 function isManager(id) {
   const searched = employees.find((item) => item.id === id);
-  return (searched.managers.length === 0);
+  return employees.some((element) => element.managers.includes(searched.id));
 }
 
 function getRelatedEmployees(managerId) {
@@ -16,5 +16,5 @@ function getRelatedEmployees(managerId) {
   }
   throw new Error('O id inserido não é de uma pessoa colaboradora gerente!');
 }
-console.log(getRelatedEmployees('9e7d4524-363c-416a-8759-8aa7e50c0992'));
+console.log(isManager('fdb2543b-5662-46a7-badc-93d960fdc0a8'));
 module.exports = { isManager, getRelatedEmployees };
