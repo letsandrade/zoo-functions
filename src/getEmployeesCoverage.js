@@ -42,5 +42,4 @@ function getEmployeesCoverage(obj = {}) {
   }
   return getSpecific(obj);
 }
-console.log(getEmployeesCoverage());
 module.exports = getEmployeesCoverage;
