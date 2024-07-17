@@ -17,13 +17,13 @@ This project involves working with data in JSON format and using various utility
 1. Clone this repository:
 
    ```sh
-    git clone https://github.com/seuusuario/zoo-data-manipulation.git
+    git clone https://github.com/seuusuario/zoo-functions.git
    ```
 
 2. Navigate to the project directory:
 
    ```sh
-    cd zoo-data-manipulation
+    cd zoo-functions
    ```
 
 3. Use the functions by importing them:
@@ -87,13 +87,13 @@ Esse projeto envolve o trabalho com dados no formato JSON e uso de várias funç
 1. Clone o repositório:
 
    ```sh
-    git clone https://github.com/seuusuario/zoo-data-manipulation.git
+    git clone https://github.com/seuusuario/zoo-functions.git
    ```
 
 2. Vá até o diretório do projeto:
 
    ```sh
-    cd zoo-data-manipulation
+    cd zoo-functions
    ```
 
 3. Use as funções importando nos arquivos desejados:
