@@ -1,6 +1,6 @@
 # Zoo Functions 🦁🐘
 
-Hey there! Welcome to my Zoo Functions project. This was the final project of the fundamentals module (the first module out of 4) in the Trybe course. The project focuses on using higher order functions to manipulate data received in JSON format, simulating a Zoo with its animals and employees. 💻
+Hey there! Welcome to my Zoo Functions project. This was one of the last projects of the fundamentals module (the first module out of 4) in the Trybe course. The project focuses on using higher order functions to manipulate data received in JSON format, simulating a Zoo with its animals and employees. 💻
 
 ## About the Project
 
@@ -70,7 +70,7 @@ A big shoutout to Trybe for kickstarting my programming career, the great instru
 
 # Zoo Functions 🦁🐘
 
-Olá! Boas vindas ao meu projeto Zoo Functions. Esse foi o projeto final do módulo de fundamentos (o primeiro de 4) no curso da Trybe. O projeto foca no uso de higher order functions para manipular dados recebidos em formato JSON, simulando um zoologico com seus animais e funcionários. 💻
+Olá! Boas vindas ao meu projeto Zoo Functions. Esse foi um dos últimos projetos do módulo de fundamentos (o primeiro de 4) no curso da Trybe. O projeto foca no uso de higher order functions para manipular dados recebidos em formato JSON, simulando um zoologico com seus animais e funcionários. 💻
 
 ## Sobre o projeto
 
